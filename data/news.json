@@ -1,17 +1,9 @@
 [
   {
-    "id": "fc25008b5752",
-    "title": "稚内の海岸に木造船が漂着 - 北海道新聞デジタル",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zYXJ0bVdfODJoTDNabFBJVXFzcnl3YzI0b2RxU1VDSnN0b3A2NGxUQ05FdVFyeks4TzRxdXR3Zzk0VEtGZlo2WURBNGx5Y3RjdGs5MEhmcXo1dw?oc=5",
-    "source": "北海道新聞デジタル",
-    "published_at": "Wed, 12 Aug 2026 20:00:00 GMT",
-    "genre": "環境・生態系・研究"
-  },
-  {
     "id": "8a016f354831",
-    "title": "【離岸流に巻き込まれたか】柏崎中央海水浴場で男性を救助 - にいがた経済新聞",
+    "title": "【離岸流に巻き込まれたか】柏崎中央海水浴場で男性を救助 - niikei.jp",
     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5kd1IxVi1KZDdSQlBncGFDRjc1ci1KLVFoalpHcW9ybjlkLVlWNllGYmpxT2hyNU1TQWNmSTBqMlJiamtX?oc=5",
-    "source": "にいがた経済新聞",
+    "source": "niikei.jp",
     "published_at": "Wed, 12 Aug 2026 09:28:32 GMT",
     "genre": "事故・安全"
   },
@@ -24,6 +16,14 @@
     "genre": "高潮・気象"
   },
   {
+    "id": "90bd83c1bc12",
+    "title": "沿岸部のマングローブ林を保護するためには、技術的な解決策と生計手段に関する解決策を連携させる必要がある。 - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSF9sMW1kZi1RbUw0a0w1c1RkVThSQmhLNU1OSFhjN09rSDlKZkluUVJ3MDdfcVF2QmVQTGhXMUt1dl9jMjAzRnU3VTV4amwzUWJaM0djY1U0ZTF1R19LOWJWcUpoLVFDeHRCckg4RFFaY3R5b1B0Zk1xUXlNYVpoQW5KdDU5Tm04MDJZMHVianZNRFJ6M1lfeVA3MjlTNmZ1WnRvS1Jn?oc=5",
+    "source": "Vietnam.vn",
+    "published_at": "Wed, 12 Aug 2026 07:00:00 GMT",
+    "genre": "環境・生態系・研究"
+  },
+  {
     "id": "d88f8b81134b",
     "title": "海砂採取 調査を要請 市民グループ「海岸侵食」 - 沖縄タイムス社",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84SzRZdTFuX0JUTzdBQzA0ZXZubERtdXA3LS1UY3E5bGN0RVdzZ0dDcHVMcGY1SlEyY2xrVnBVcGdxVndtcm92VHUzMnU4TDV5bWhOa1RsbC0xNTZKU0E?oc=5",
@@ -32,20 +32,12 @@
     "genre": "侵食・保全工事"
   },
   {
-    "id": "016be90208b3",
-    "title": "熊本地震に伴い八代海沿岸地域では浸水や冠水にご注意ください～８月１３日前後の満潮時間帯を中心に潮位が非常に高くなります～",
-    "url": "https://www.jma.go.jp/jma/press/2608/10c/20260810_yatsushiro_oshio.html",
-    "source": "気象庁 報道発表資料",
-    "published_at": "2026-08-10",
+    "id": "cd9831e048b4",
+    "title": "インドネシア付近でM7.7の地震、47人死亡 沿岸で津波も観測 - 朝日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DQ1RXczdwWVpGbEVuZkl5LXpYcjFRbFJ1TjQwZlpCRjNtRnRtM1cwS05uWjN4WjhQRHJMWDd0OXc0ZUs5cEcwYjh4RVc5SGFsUHZ0aVUwUXgweGJsSzN3cmgzOUtHVGM?oc=5",
+    "source": "朝日新聞",
+    "published_at": "Sat, 15 Aug 2026 02:54:00 GMT",
     "genre": "地震・津波"
-  },
-  {
-    "id": "90bd83c1bc12",
-    "title": "沿岸部のマングローブ林を保護するためには、技術的な解決策と生計手段に関する解決策を連携させる必要がある。 - Vietnam.vn",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSF9sMW1kZi1RbUw0a0w1c1RkVThSQmhLNU1OSFhjN09rSDlKZkluUVJ3MDdfcVF2QmVQTGhXMUt1dl9jMjAzRnU3VTV4amwzUWJaM0djY1U0ZTF1R19LOWJWcUpoLVFDeHRCckg4RFFaY3R5b1B0Zk1xUXlNYVpoQW5KdDU5Tm04MDJZMHVianZNRFJ6M1lfeVA3MjlTNmZ1WnRvS1Jn?oc=5",
-    "source": "Vietnam.vn",
-    "published_at": "Wed, 12 Aug 2026 07:00:00 GMT",
-    "genre": "環境・生態系・研究"
   },
   {
     "id": "a34b0cf4cb57",
@@ -64,28 +56,20 @@
     "genre": "高潮・気象"
   },
   {
-    "id": "9473d12f9bd7",
-    "title": "２１００年、気温上昇でどうなる？ 神奈川県、海岸保全計画の改定へ懇談会 - カナロコ",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aUjVNUUM2U2ZUanNSTmZfbWdpVHZOR0FFamlMMmNuazZlREhCM2dQSXMwSGVmLXVqeHExLXNsdm9YTlFQVjZRMC1PSWplTGlOUTVqRHlVOW14YlhiZDZZcWEzY1hKejF6X0NV?oc=5",
-    "source": "カナロコ",
-    "published_at": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "genre": "侵食・保全工事"
-  },
-  {
-    "id": "85983d3e214b",
-    "title": "熊本県八代市八代港に臨時の津波観測装置を設置しました",
-    "url": "https://www.jma.go.jp/jma/press/2608/08a/20260808.html",
-    "source": "気象庁 報道発表資料",
-    "published_at": "2026-08-08",
-    "genre": "地震・津波"
-  },
-  {
-    "id": "28c8e7c86904",
-    "title": "船体に“ハングル”が…海岸に木造船が漂着 北海道稚内市 - Yahoo!ニュース",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFNzdndnExNUZyTGlFYzVsQ2lIUWxXcHF5cURkVDM2NGNTTmVjT2RTaFVISzJ0R1pGc09ZUlhnbVp5a09Zd1ItSWphbUE2bC1NUEg3Nmt2TG04TXNHbE9qV19iWWdyYjk0TllRbGh1REhFTjU3SUs4S1dMajQ4MmM?oc=5",
-    "source": "Yahoo!ニュース",
-    "published_at": "Tue, 11 Aug 2026 21:14:00 GMT",
+    "id": "cc6ca0f143bd",
+    "title": "稚内・西浜の海岸に木造船が漂着 - 北海道新聞デジタル",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94NXFEVkd1ckFJNmdFQVR3cUs0dm5ScGxreUF1R0szT1gxMlRSNUw3eklsYzZYLUtpSXVWMjhtV3FiTm1YQzZoMjZBbktCc2dQcFV2X0VKS2x2QQ?oc=5",
+    "source": "北海道新聞デジタル",
+    "published_at": "Wed, 12 Aug 2026 01:33:47 GMT",
     "genre": "環境・生態系・研究"
+  },
+  {
+    "id": "016be90208b3",
+    "title": "熊本地震に伴い八代海沿岸地域では浸水や冠水にご注意ください～８月１３日前後の満潮時間帯を中心に潮位が非常に高くなります～",
+    "url": "https://www.jma.go.jp/jma/press/2608/10c/20260810_yatsushiro_oshio.html",
+    "source": "気象庁 報道発表資料",
+    "published_at": "2026-08-10",
+    "genre": "地震・津波"
   },
   {
     "id": "9243c2ea0b20",
@@ -104,12 +88,20 @@
     "genre": "高潮・気象"
   },
   {
-    "id": "8849b084efdb",
-    "title": "海洋ごみ問題を考える「タイルづくりワークショップ」子どもたちが海洋プラスチックを再利用《長崎》 (長崎国際テレビ) - Yahoo!ニュース",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObmk1YWRYbjRkTE4tWVBqUm96cFpQNE1LTmoxTmR2OXBSTUJLTWhHalBvNFN5UndhcnpLNi11WGxYbDI0TGlfRWF2NDJ2bk9wbzhNQ0lyM1E3YUNRcDVXandLN0xXTnc5d09zNEpQSTBtc1o3cmgtNFo4MzRlX1B0MkZCOHdaUnBKaW5tYjdR?oc=5",
+    "id": "28c8e7c86904",
+    "title": "船体に“ハングル”が…海岸に木造船が漂着 北海道稚内市 - Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFNzdndnExNUZyTGlFYzVsQ2lIUWxXcHF5cURkVDM2NGNTTmVjT2RTaFVISzJ0R1pGc09ZUlhnbVp5a09Zd1ItSWphbUE2bC1NUEg3Nmt2TG04TXNHbE9qV19iWWdyYjk0TllRbGh1REhFTjU3SUs4S1dMajQ4MmM?oc=5",
     "source": "Yahoo!ニュース",
-    "published_at": "Tue, 11 Aug 2026 11:48:40 GMT",
+    "published_at": "Tue, 11 Aug 2026 21:14:00 GMT",
     "genre": "環境・生態系・研究"
+  },
+  {
+    "id": "85983d3e214b",
+    "title": "熊本県八代市八代港に臨時の津波観測装置を設置しました",
+    "url": "https://www.jma.go.jp/jma/press/2608/08a/20260808.html",
+    "source": "気象庁 報道発表資料",
+    "published_at": "2026-08-08",
+    "genre": "地震・津波"
   },
   {
     "id": "1f375b38bbf9",
@@ -121,18 +113,18 @@
   },
   {
     "id": "1f6a85c84bae",
-    "title": "危険警報級の高潮の恐れ、岡山県沿岸部 台風１５号変化の熱帯低気圧、１２日最接近 気象台、注意呼びかけ - 山陽新聞",
+    "title": "危険警報級の高潮の恐れ、岡山県沿岸部 台風１５号変化の熱帯低気圧、１２日最接近 気象台、注意呼びかけ - sanyonews.jp",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2Vkd6ZTQ4dENRakhCYW5vSkc4bkFoSi12R0dlcGthQTFHNnpVeWFaLUhIeDNIbG0tSm00Z2Vpb0tXRl9Db1I4YjJhdF96VVBveXc?oc=5",
-    "source": "山陽新聞",
+    "source": "sanyonews.jp",
     "published_at": "Tue, 11 Aug 2026 11:09:00 GMT",
     "genre": "高潮・気象"
   },
   {
-    "id": "d6c17d3decfb",
-    "title": "【海洋博公園】8/23（日） 海洋文化館 × 沖縄美ら海水族館 海洋文化講座スペシャルセッション「沖縄のウミガメの生態と太平洋のウミガメ文化」開催 - PR TIMES",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94aU1mZ2x3am5MTVVadVNuM215WGh2Q0tIb3ducm10ZHVSd2FGd2c4VzM0bk9HTlgxUXNMWmZuM1IxLW9GU2tLejJQUk9VSi1MMXFSeVM4UXdoaGlRR04zVTZHS09rNmJDVXc?oc=5",
-    "source": "PR TIMES",
-    "published_at": "Thu, 13 Aug 2026 08:35:06 GMT",
+    "id": "8849b084efdb",
+    "title": "海洋ごみ問題を考える「タイルづくりワークショップ」子どもたちが海洋プラスチックを再利用《長崎》 (長崎国際テレビ) - Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObmk1YWRYbjRkTE4tWVBqUm96cFpQNE1LTmoxTmR2OXBSTUJLTWhHalBvNFN5UndhcnpLNi11WGxYbDI0TGlfRWF2NDJ2bk9wbzhNQ0lyM1E3YUNRcDVXandLN0xXTnc5d09zNEpQSTBtc1o3cmgtNFo4MzRlX1B0MkZCOHdaUnBKaW5tYjdR?oc=5",
+    "source": "Yahoo!ニュース",
+    "published_at": "Tue, 11 Aug 2026 11:48:40 GMT",
     "genre": "環境・生態系・研究"
   },
   {
@@ -152,11 +144,11 @@
     "genre": "高潮・気象"
   },
   {
-    "id": "c47201e892b1",
-    "title": "海岸漂着物でモンスター 金沢海みらい図書館で制作｜地域｜石川のニュース - 北國新聞",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvaFRIa0JlU2tVdlE5QXFuUjRSNmZkZjhmS0YtdFlkVG1iRy1McWYtUURqVDFKMzhZZFQtMThteDlHZTRwYlp2MWpGSzRLWXJTUURkc3hESQ?oc=5",
-    "source": "北國新聞",
-    "published_at": "Thu, 06 Aug 2026 20:00:00 GMT",
+    "id": "d6c17d3decfb",
+    "title": "【海洋博公園】8/23（日） 海洋文化館 × 沖縄美ら海水族館 海洋文化講座スペシャルセッション「沖縄のウミガメの生態と太平洋のウミガメ文化」開催 - PR TIMES",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94aU1mZ2x3am5MTVVadVNuM215WGh2Q0tIb3ducm10ZHVSd2FGd2c4VzM0bk9HTlgxUXNMWmZuM1IxLW9GU2tLejJQUk9VSi1MMXFSeVM4UXdoaGlRR04zVTZHS09rNmJDVXc?oc=5",
+    "source": "PR TIMES",
+    "published_at": "Thu, 13 Aug 2026 08:35:06 GMT",
     "genre": "環境・生態系・研究"
   },
   {
@@ -176,11 +168,11 @@
     "genre": "高潮・気象"
   },
   {
-    "id": "e159178775a8",
-    "title": "浜田水産高が最優秀賞 海洋ごみ、ＡＩで調査分析 回収３８０キロをデータ化 日本海側水産系６高校地区大会 - 山陰中央新報デジタル",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96eFJoUGwzTXZlQnJ0Q2xDTVMxYmVadEhUTEZuYnc4RUl4V0RBR3Z0RFJOZG1sUEp6WGJuNTBvemVMMk9xSWdYcE9MMGtSTDRpLTBFRTlBVnJ5OWM?oc=5",
-    "source": "山陰中央新報デジタル",
-    "published_at": "Thu, 06 Aug 2026 19:00:00 GMT",
+    "id": "5270d53b9134",
+    "title": "岡垣町の三里松原の地図 - ウミガメが11年産卵なしの岡垣町の海岸で何が 流木が里帰り出産の「壁」に、砂浜も浸食 - 写真・画像(6/6) - 西日本新聞me",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ob3RGYzFIUFlNRUhaWjYyNXNmUkdsOVY2M3V0VlNVeVZNTWlwNEpqaFdKVUFrM1pFR2xzaC04M0hHZUVuU1ZBY2NSajZjSXVPRXJDSkdPaw?oc=5",
+    "source": "西日本新聞me",
+    "published_at": "Sat, 15 Aug 2026 21:17:23 GMT",
     "genre": "環境・生態系・研究"
   },
   {
@@ -192,6 +184,14 @@
     "genre": "事故・安全"
   },
   {
+    "id": "db9d07a01333",
+    "title": "波打ち際散歩中に高波にさらわれたか、男性死亡 いすみの海岸（千葉日報オンライン） - Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wOUY0M0FvYlgzVVZlV09BRW1iQWNJQzNJbEFYMElIWlEwczdjRjBoSnJvMTk3andoaVgyczM5ckxfRWs2VmdfV2ltTTZnVy1pRThxbTZRMU1rM2VReEYxdzJfeDlCNUc0cXR2RWR4VmJzTUJfUHRKUlVGeWZWYjg?oc=5",
+    "source": "Yahoo!ニュース",
+    "published_at": "Mon, 10 Aug 2026 03:11:04 GMT",
+    "genre": "高潮・気象"
+  },
+  {
     "id": "e7b3add9efbf",
     "title": "日韓学生らが対馬の海岸で漂着ごみ回収 プラごみなど2万5000リットル（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LUlVkQVI0SV9IbHpFajB3a1BqT3I1ajhsS2N0Q0VKdmxYdVRnTnZqMnA4Mk94aXRXOGQyZlFXM0xkR3ZVR1RHc0ZhYVlEYUlvVmp4cm5sdGZ4SGR5N2xBaENPTzJmMXBub3czdWpmOG5Jc0NJUk1meWtwVlg4eFk?oc=5",
@@ -200,27 +200,11 @@
     "genre": "環境・生態系・研究"
   },
   {
-    "id": "74b956b76c1b",
-    "title": "中1の姉と小3の弟が死亡した海難事故　専門家は“風向き”と“離岸流”が原因と指摘「人間では抵抗できない規模に」　新潟市 - ｄメニューニュース",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QOTV2dWF0Vk54TmdualB2YmJRTzVyb3NQNTJfaFFNd3lOdXFLeGN2MVlFRkJlVlpqUUxfcHB1NHRCaFBTTmlHdWNWNWYzMUdqa3B2a0lqT0hJQWVGVzByX0tRMU85SWpXTEFpdllTSncwZ9IBd0FVX3lxTFBNWUQ3UGczQWt6VGh1WmFMQWstdndvOHg4cjVidkhSTWV3ZDBTX01ZdjBtVnF5NFRmMENudmxmZVllbmJ1Uk5lRktMeHN3a1FkWk5GQ0VkQjVQQ1pOeC01eHNOT0ZMZTNYOHJSbXpUakUwSWNHZ28w?oc=5",
-    "source": "ｄメニューニュース",
+    "id": "4af4c60ff59a",
+    "title": "中1の姉と小3の弟が死亡した海難事故 専門家は“風向き”と“離岸流”が原因と指摘「人間では抵抗できない規模に」 新潟市 - FNNプライムオンライン",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtRUpEajhFN2Yyc3FOLVpMMHoxY3pkdGZOU0hEY2pmMjUwVEMtbjI0U2V4MVdKallsVlhXRFJjTTBXUVk4NWhMTVJwN3I4dw?oc=5",
+    "source": "FNNプライムオンライン",
     "published_at": "Tue, 11 Aug 2026 10:44:00 GMT",
-    "genre": "事故・安全"
-  },
-  {
-    "id": "46d93aa88d60",
-    "title": "オマーンの原油流出が沿岸に到達、絶滅危惧種のクジラやウミガメが危機に - arabnews.jp",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWS0xEb1NzNjB3VUE2T1hmX016aDh1TGMtUDhFNkQwVHZoRXBQdlR1Y0dwQ1pLZ2hGby1xZWhhVDJpSTNoTEh4a1E0aUl0SGx2WGJnOW5yemwtTVB2X1VfbjZ5dkhEd0U?oc=5",
-    "source": "arabnews.jp",
-    "published_at": "Fri, 14 Aug 2026 08:08:04 GMT",
-    "genre": "環境・生態系・研究"
-  },
-  {
-    "id": "368a6beaa464",
-    "title": "サーフィンビーチで大学生（18）母の救助中に流され行方不明「サーファーの聖地」高知・東洋町の生見海岸（高知さんさんテレビ） - Yahoo!ニュース",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tQ0puRmhLbmFaUHpJNUppbEdNQUZYLWJyWHBKYWdoelR6WlR1MTNrOWNjNVFkdEt2Rm5iY2M1Q3FqSDJqa2lYU090RVJBYjlRa3Y5ZDJKTHdHbFM4ZEdvV2MzUGI1TUV5UzduUXpDZU80cEowZGEtTWJVcVFzMkU?oc=5",
-    "source": "Yahoo!ニュース",
-    "published_at": "Tue, 11 Aug 2026 02:07:02 GMT",
     "genre": "事故・安全"
   },
   {
@@ -232,11 +216,27 @@
     "genre": "環境・生態系・研究"
   },
   {
+    "id": "368a6beaa464",
+    "title": "サーフィンビーチで大学生（18）母の救助中に流され行方不明「サーファーの聖地」高知・東洋町の生見海岸（高知さんさんテレビ） - Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tQ0puRmhLbmFaUHpJNUppbEdNQUZYLWJyWHBKYWdoelR6WlR1MTNrOWNjNVFkdEt2Rm5iY2M1Q3FqSDJqa2lYU090RVJBYjlRa3Y5ZDJKTHdHbFM4ZEdvV2MzUGI1TUV5UzduUXpDZU80cEowZGEtTWJVcVFzMkU?oc=5",
+    "source": "Yahoo!ニュース",
+    "published_at": "Tue, 11 Aug 2026 02:07:02 GMT",
+    "genre": "事故・安全"
+  },
+  {
     "id": "9b5e753e4277",
     "title": "サーフィン中に溺れ男性死亡 静岡県湖西市の海岸 - 中日新聞Web",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqdHhIdlptcTlJd3V4VmRRdzhrQ2o5UXlvOFJQUkVCY2tDeGN1RVdNcmNfQ3JMMUx6dG5lT3dMUzRRQjlLM1hLVEVSWFdjRG5vZjdtdQ?oc=5",
     "source": "中日新聞Web",
     "published_at": "Thu, 13 Aug 2026 10:39:55 GMT",
+    "genre": "事故・安全"
+  },
+  {
+    "id": "66c689d7cb50",
+    "title": "茨城の海岸でベトナム国籍の男性2人が溺れ1人死亡 「離岸流」に巻き込まれたか｜Quebee キュエビー - QAB 琉球朝日放送",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ibHRibWNJT1QwbTlGcUY2OGxpNjg4NHVoNzlmbTU0QVByM1I2QllIS0daRmcxN3pLU2lpYjIyWGdRYkcxNGNZOHVreHVpVXV3a1V3aGlqVEI?oc=5",
+    "source": "QAB 琉球朝日放送",
+    "published_at": "Sat, 08 Aug 2026 12:40:21 GMT",
     "genre": "事故・安全"
   }
 ]

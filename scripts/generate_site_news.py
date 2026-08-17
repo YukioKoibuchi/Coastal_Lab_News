@@ -26,7 +26,7 @@ from pathlib import Path
 
 import collect_news as cn
 
-MAX_ITEMS = 30
+MAX_ITEMS = 12
 
 
 def build_site_items(candidates: list[dict]) -> tuple[list[dict], int]:

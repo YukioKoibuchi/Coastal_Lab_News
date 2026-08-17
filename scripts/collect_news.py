@@ -419,6 +419,16 @@ def is_fresh(raw_published: str) -> bool:
     return age <= timedelta(days=RECENCY_DAYS)
 
 
+def sort_by_published(items: list[dict]) -> list[dict]:
+    """日付表記が混在していても、実際の公開日時が新しい順に並べる。"""
+    oldest = datetime.min.replace(tzinfo=timezone.utc)
+    return sorted(
+        items,
+        key=lambda item: parse_published(item["published_at"]) or oldest,
+        reverse=True,
+    )
+
+
 LINK_CHECK_TIMEOUT = 10
 _LINK_CHECK_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
@@ -709,7 +719,7 @@ def collect() -> tuple[list[dict], int, int, int, int, int]:
     results = dedupe_by_title(results)
     duplicates_removed = before_dedupe - len(results)
 
-    results.sort(key=lambda r: r["published_at"], reverse=True)
+    results = sort_by_published(results)
     return (
         results, skipped_stale, skipped_dead_link, skipped_paywall,
         skipped_excluded_publisher, duplicates_removed,
